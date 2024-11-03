@@ -1,9 +1,6 @@
 {
-    "user": "Zeex",
+    "user": "MichelDev2005",
     "repo": "samp-plugin-crashdetect",
-    "contributors": [
-  		"Zeex"
-  	],
     "resources": [
         {
             "name": "^crashdetect-(.*)-linux.tar.gz$",
@@ -20,7 +17,10 @@
             "plugins": ["crashdetect-(.*)-win32/crashdetect.dll"]
         }
     ],
-  "runtime": {
+    "runtime": {
         "plugins": ["MichelDev2005/samp-plugin-crashdetect"]
-    }
+    },
+    "contributors": [
+        "Zeex"
+    ]
 }
