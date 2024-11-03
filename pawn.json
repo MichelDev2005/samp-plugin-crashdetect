@@ -1,5 +1,5 @@
 {
-    "user": "MichelDev2005",
+    "user": "Zeex",
     "repo": "samp-plugin-crashdetect",
     "include_path": "include",
     "resources": [
@@ -18,7 +18,4 @@
             "plugins": ["crashdetect-(.*)-win32/crashdetect.dll"]
         }
     ],
-    "runtime": {
-        "plugins": ["Zeex/samp-plugin-crashdetect"]
-    }
 }
