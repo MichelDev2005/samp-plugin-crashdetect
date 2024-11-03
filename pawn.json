@@ -1,8 +1,7 @@
 {
     "user": "Zeex",
     "repo": "samp-plugin-crashdetect",
-    "include_path": "include",
-     "contributors": [
+    "contributors": [
   		"Zeex"
   	],
     "resources": [
